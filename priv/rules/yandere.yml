@@ -5,6 +5,7 @@
   threshold: 20%
   filters:
     anime_ids:
+      - 29976
       - 35849
       - 10620
       - 17895
